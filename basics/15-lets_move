@@ -1,2 +1,2 @@
 #!/bin/bash
-
+mv data1/* /tmp/
