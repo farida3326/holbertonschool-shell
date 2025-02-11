@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir iamafile mv /tmp
+mkdir  mv
