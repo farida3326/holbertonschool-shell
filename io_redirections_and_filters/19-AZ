@@ -1,2 +1,2 @@
 #!/bin/bash
-Tr 'Courant alternatif' 'Ze'
+tr 'Courant alternatif' 'Ze'
